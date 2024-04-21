@@ -12,7 +12,7 @@ const answers = await inquirer.prompt([
         message: (chalk.red.italic("Enter your sentence to count the words:"))
     }
 ]);
-const words = answers.sentence.trim().split("  ");
+const words = answers.sentence.trim().split(" ");
 //Print the array of words to the console:
 console.log(words);
 //Print the word count of the sentence to the console:

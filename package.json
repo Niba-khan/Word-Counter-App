@@ -1,6 +1,6 @@
 {
-  "name": "w2rd5-words-counter",
-  "version": "2.0.1",
+  "name": "w2rd85-words-counter",
+  "version": "2.0.6",
   "description": "This is word counter app using  node.js and inquirer ",
   "main": "index.js",
   "type": "module",
